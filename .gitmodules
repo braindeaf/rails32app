@@ -1,0 +1,3 @@
+[submodule "vendor/gems/engine"]
+	path = vendor/gems/engine
+	url = git@github.com:braindeaf/rails32engine.git
